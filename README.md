@@ -28,8 +28,8 @@
 
 ## Day 9-20: Probability and Statistics:
 
-[Introduction to Statistics] (https://www.youtube.com/watch?v=GUQJ7zMoSCM&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
+[Introduction to Statistics](https://www.youtube.com/watch?v=GUQJ7zMoSCM&list=PL0o_zxa4K1BVsziIRdfv4Hl4UIqDZhXWV)
 
 ## Day 21-28: Python for everybody
 
-[Python for Everybody | Coursera] (https://www.coursera.org/specializations/python)
+[Python for Everybody | Coursera](https://www.coursera.org/specializations/python)
